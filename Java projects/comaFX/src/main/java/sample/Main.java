@@ -35,7 +35,8 @@ public class Main extends Application {
         super.stop();
         System.exit(0);
     }
-
+    public static void testFunc(){}
+    //123
     private static PieDataset createDataset( )
     {
         DefaultPieDataset dataset = new DefaultPieDataset( );
