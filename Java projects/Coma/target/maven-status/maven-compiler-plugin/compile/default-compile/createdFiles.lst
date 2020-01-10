@@ -1,0 +1,10 @@
+ru\coma\entity\ContactWithProperties.class
+ru\coma\service\ContactServiceImpl.class
+ru\coma\ConfigurationControllers.class
+ru\coma\ui\MainController.class
+ru\coma\service\ContactService.class
+ru\coma\repository\ContactRepository.class
+ru\coma\ConfigurationControllers$View.class
+ru\coma\Application.class
+ru\coma\AbstractJavaFxApplicationSupport.class
+ru\coma\entity\Contact.class
